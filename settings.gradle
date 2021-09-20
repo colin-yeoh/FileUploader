@@ -9,5 +9,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "FileUploader"
-include ':app'
-include ':lib'
+include ':app', ':lib'
