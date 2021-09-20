@@ -1,4 +1,4 @@
-package com.cyapp.fileuploader
+package com.cyapp.fileuploaderexample
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.cyapp.fileuploader
+package com.cyapp.fileuploaderexample
 
 import android.os.Bundle
 import android.view.Menu
@@ -8,7 +8,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
-import com.cyapp.fileuploader.databinding.ActivityMainBinding
+import com.cyapp.fileuploaderexample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
