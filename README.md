@@ -1,4 +1,6 @@
-# FileUploader
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/colin-yeoh/fileuploader?color=green)
+
+# FileUploader   
 Helper class for uploading file using okHttp multipart form and kotlin flow pattern.
 
 
