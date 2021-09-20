@@ -1,4 +1,4 @@
-package com.cyapp.fileuploader
+package com.cyapp.fileuploaderexample
 
 import android.net.Uri
 import android.os.Bundle
@@ -10,8 +10,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.lifecycle.lifecycleScope
-import androidx.navigation.fragment.findNavController
-import com.cyapp.fileuploader.databinding.FragmentFirstBinding
+import com.cyapp.fileuploader.FileUploader
+import com.cyapp.fileuploaderexample.databinding.FragmentFirstBinding
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.flow.flowOn
