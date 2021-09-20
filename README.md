@@ -20,7 +20,7 @@ Step 2. Add the dependency
 
 Step 3. Use it in your fragment / activity
 
-[Sample usage in fragment](https://github.com/colin-yeoh/FileUploader/blob/main/app/src/main/java/com/cyapp/fileuploader/FirstFragment.kt)
+[Sample usage in fragment](https://github.com/colin-yeoh/fileuploader/blob/main/app/src/main/java/com/cyapp/fileuploaderexample/FirstFragment.kt)
 
 ### License
 
