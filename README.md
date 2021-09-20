@@ -1,5 +1,5 @@
 # FileUploader
-Helper class for uploading file using okHttp multipart form.
+Helper class for uploading file using okHttp multipart form and kotlin flow pattern.
 
 
 ### Usage
@@ -17,6 +17,9 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.colin-yeoh:FileUploader:v1.0.0'
 	}
+
+Step 3. Use it in your fragment / activity
+[Sample usage in fragment](ttps://github.com/colin-yeoh/FileUploader/blob/main/app/src/main/java/com/cyapp/fileuploader/FirstFragment.kt)
 
 ### License
 
